@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/ajpur/Documents/Education/University/Comp203 (Optimisations)/COMP203-2202628/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/ajpur/Documents/Education/University/Comp203 (Optimisations)/COMP203-2202628/include\" -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\project.dir\\src\\main.cpp.obj -c \"C:\\Users\\ajpur\\Documents\\Education\\University\\Comp203 (Optimisations)\\COMP203-2202628\\src\\main.cpp\"",
+  "file": "C:\\Users\\ajpur\\Documents\\Education\\University\\Comp203 (Optimisations)\\COMP203-2202628\\src\\main.cpp",
+  "output": "CMakeFiles\\project.dir\\src\\main.cpp.obj"
+}
+]

@@ -1,0 +1,13 @@
+find_package(benchmark)
+if ( benchmark_FOUND )
+	add_subdirectory( project-benchmark )
+else()
+	message(WARNING "Benchmark was not loaded, you will not have unit test support")
+endif()
+
+find_package(GTest)
+if ( GTest_FOUND )
+	add_subdirectory( project-unit )
+else()
+	message(WARNING "GTest was not loaded, you will not have unit test support")
+endif()

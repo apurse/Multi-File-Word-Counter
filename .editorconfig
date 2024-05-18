@@ -1,0 +1,12 @@
+# Editorconfig
+# see https://EditorConfig.org
+
+root = True
+
+[*]
+end_of_line = lf
+insert_final_newline = true
+
+[*.{cpp,h,hpp}]
+charset = utf-8
+
